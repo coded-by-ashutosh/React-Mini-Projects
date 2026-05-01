@@ -7,7 +7,7 @@
 
 ## 📸 Screenshots
 
-![Job Portal UI](react-card-job-portal/screenshots/Screenshot 2026-05-01 143050.png)
+![Job Portal UI](react-card-job-portal/screenshots/job-ui.png)
 
 ### 2. Todo App
 🔗 https://github.com/your-username/todo-app-react
