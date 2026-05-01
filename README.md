@@ -20,4 +20,4 @@
 
 ## 📱 Mobile-view
 
-![Notes App UI](/screenshots/notes-app-mobile.png)
+![Notes App UI](notes-app/screenshots/notes-app-mobile.png)
