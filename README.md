@@ -16,8 +16,8 @@
 
 ## 💻 Desktop-view
 
-![Notes App UI](./screenshots/notes-app-desktop.png)
+![Notes App UI](/screenshots/notes-app-desktop.png)
 
 ## 📱 Mobile-view
 
-![Notes App UI](./screenshots/notes-app-mobile.png)
+![Notes App UI](/screenshots/notes-app-mobile.png)
